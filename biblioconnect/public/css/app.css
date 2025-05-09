@@ -1,0 +1,57 @@
+﻿body {
+    font-family: 'Nunito', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f8fafc;
+}
+
+.header {
+    background-color: #4299e1;
+    padding: 20px;
+    text-align: center;
+}
+
+.menu {
+    background-color: #2d3748;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    padding: 5px;
+}
+
+.menu a {
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+.menu a:hover {
+    background-color: #4a5568;
+}
+
+.main-content {
+    text-align: center;
+    padding: 20px;
+}
+
+.main-content img {
+    max-width: 100%;
+    height: auto;
+    margin-top: 20px;
+}
+
+/* Dodany nowy styl dla div z wyszukaj ksiazke */
+.search-box {
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 0px;
+}
+
+/* Dodany nowy styl dla tekstu w menu po najechaniu myszką */
+.menu a:hover {
+    background-color: #ffe600;
+    color: #2d3748;
+}
