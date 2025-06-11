@@ -25,6 +25,8 @@ _A Laravel-based online library platform for students, featuring book browsing, 
 
 **BiblioConnect**, developed by Adrian Lesniak, is a modern online library platform built using the **Laravel PHP framework**. Designed primarily for students, it provides a comprehensive virtual library experience, allowing users to browse an extensive catalog of books, check availability, borrow, and return books seamlessly through a web interface. A key feature is its planned **Electronic Data Interchange (EDI)** integration (e.g., using EDIFACT standards) for efficient backend data exchange related to borrowing, returns, and potential fees. The platform also incorporates robust user management, powerful search and filtering capabilities, user reviews and ratings, automated notifications, and a strong emphasis on security best practices. The user interface is responsive, built with Bootstrap, and presented in **Polish**.
 
+![Demo GIF](screenshots/1.gif)
+
 ## ✨ Key Features
 
 *   📖 **Virtual Library Access**: Browse a rich online catalog of books with detailed information including title, author, publication year, category, cover image, and current availability status.
@@ -42,11 +44,22 @@ _A Laravel-based online library platform for students, featuring book browsing, 
     *   Potential for sharing book recommendations.
 *   🇵🇱 **Polish Language Interface**: The primary user interface and content are presented in Polish (`lang="pl"`).
 
-## 🖼️ Screenshots (Conceptual)
+## 🖼️ Screenshots
 
-**Coming soon!**
+_Screenshots showcasing: the book browsing interface, search results, user profile, borrowing process, review section, and other key pages of the BiblioConnect platform._
 
-_This section will be updated with screenshots showcasing: the book browsing interface, search results, user profile, borrowing process, review section, and other key pages of the BiblioConnect platform._
+<p align="center">
+  <img src="screenshots\1.jpg" width="300"/>
+  <img src="screenshots\2.jpg" width="300"/>
+  <img src="screenshots\3.jpg" width="300"/>
+  <img src="screenshots\4.jpg" width="300"/>
+  <img src="screenshots\5.jpg" width="300"/>
+  <img src="screenshots\6.jpg" width="300"/>
+  <img src="screenshots\7.jpg" width="300"/>
+  <img src="screenshots\8.jpg" width="300"/>
+  <img src="screenshots\9.jpg" width="300"/>
+  <img src="screenshots\10jpg" width="300"/>
+</p>
 
 ## 🛠️ Technology Stack & Requirements
 
