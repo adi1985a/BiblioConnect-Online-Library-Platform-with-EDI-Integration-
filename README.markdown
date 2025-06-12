@@ -25,7 +25,10 @@ _A Laravel-based online library platform for students, featuring book browsing, 
 
 **BiblioConnect**, developed by Adrian Lesniak, is a modern online library platform built using the **Laravel PHP framework**. Designed primarily for students, it provides a comprehensive virtual library experience, allowing users to browse an extensive catalog of books, check availability, borrow, and return books seamlessly through a web interface. A key feature is its planned **Electronic Data Interchange (EDI)** integration (e.g., using EDIFACT standards) for efficient backend data exchange related to borrowing, returns, and potential fees. The platform also incorporates robust user management, powerful search and filtering capabilities, user reviews and ratings, automated notifications, and a strong emphasis on security best practices. The user interface is responsive, built with Bootstrap, and presented in **Polish**.
 
-![Demo GIF](screenshots/2.gif)
+<p align="center">
+  <img src="screenshots/2.gif" width="60%">
+</p>
+
 
 ## ✨ Key Features
 
